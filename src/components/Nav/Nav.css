@@ -1,0 +1,17 @@
+/* Add this CSS to your existing CSS file or add it inline */
+.navbar-brand-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .navbar-brand-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 900px;
+  }
+
+  
+  
